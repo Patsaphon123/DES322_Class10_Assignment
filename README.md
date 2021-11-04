@@ -4,11 +4,11 @@ Ramen Lover website is the online-restaurant website for people who want to eat 
 This website has 3 pages (Homepage, Menu page, Menu details page)
 
 # Language
--HTML
--CSS
--PHP
--JavaScript
+- HTML
+- CSS
+- PHP
+- JavaScript
 
 # Installation
--Git
-Vscode
+- Git
+- Vscode
